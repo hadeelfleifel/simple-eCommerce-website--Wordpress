@@ -1,0 +1,55 @@
+2019-09-08T18:31:32+00:00 CRITICAL Uncaught Error: Call to undefined function yith_wcwl_object_id() in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/woocommerce/content-product.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/template.php(724): require()
+#1 /var/www/html/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(195): load_template('/var/www/html/w...', false)
+#2 /var/www/html/wordpress/wp-content/plugins/woocommerce/templates/archive-product.php(70): wc_get_template_part('content', 'product')
+#3 /var/www/html/wordpress/wp-includes/template-loader.php(78): include('/var/www/html/w...')
+#4 /var/www/html/wordpress/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#5 /var/www/html/wordpress/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/woocommerce/content-product.php on line 70
+
+2019-09-08T18:31:38+00:00 CRITICAL Uncaught Error: Call to undefined function yith_wcwl_object_id() in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/woocommerce/content-product.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/template.php(724): require()
+#1 /var/www/html/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(195): load_template('/var/www/html/w...', false)
+#2 /var/www/html/wordpress/wp-content/plugins/woocommerce/templates/archive-product.php(70): wc_get_template_part('content', 'product')
+#3 /var/www/html/wordpress/wp-includes/template-loader.php(78): include('/var/www/html/w...')
+#4 /var/www/html/wordpress/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#5 /var/www/html/wordpress/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/woocommerce/content-product.php on line 70
+
+2019-09-08T18:31:41+00:00 CRITICAL Uncaught Error: Call to undefined function yith_wcwl_object_id() in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/woocommerce/content-product.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/template.php(724): require()
+#1 /var/www/html/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(195): load_template('/var/www/html/w...', false)
+#2 /var/www/html/wordpress/wp-content/plugins/woocommerce/templates/archive-product.php(70): wc_get_template_part('content', 'product')
+#3 /var/www/html/wordpress/wp-includes/template-loader.php(78): include('/var/www/html/w...')
+#4 /var/www/html/wordpress/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#5 /var/www/html/wordpress/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/woocommerce/content-product.php on line 70
+
+2019-09-08T18:31:51+00:00 CRITICAL Uncaught Error: Call to undefined function yith_wcwl_object_id() in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/woocommerce/content-product.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/template.php(724): require()
+#1 /var/www/html/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(195): load_template('/var/www/html/w...', false)
+#2 /var/www/html/wordpress/wp-content/plugins/woocommerce/templates/archive-product.php(70): wc_get_template_part('content', 'product')
+#3 /var/www/html/wordpress/wp-includes/template-loader.php(78): include('/var/www/html/w...')
+#4 /var/www/html/wordpress/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#5 /var/www/html/wordpress/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/woocommerce/content-product.php on line 70
+
+2019-09-08T18:32:03+00:00 CRITICAL Uncaught Error: Call to undefined function yith_wcwl_object_id() in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/woocommerce/content-product.php:70
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/template.php(724): require()
+#1 /var/www/html/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(195): load_template('/var/www/html/w...', false)
+#2 /var/www/html/wordpress/wp-content/plugins/woocommerce/templates/archive-product.php(70): wc_get_template_part('content', 'product')
+#3 /var/www/html/wordpress/wp-includes/template-loader.php(78): include('/var/www/html/w...')
+#4 /var/www/html/wordpress/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#5 /var/www/html/wordpress/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wordpress/wp-content/themes/ecommerce-gem/woocommerce/content-product.php on line 70
+

@@ -1,0 +1,32 @@
+table.wc_currencies {
+  position: relative;
+}
+table.wc_currencies td {
+  vertical-align: middle;
+  padding: 7px;
+}
+table.wc_currencies th {
+  padding: 9px 7px !important;
+  vertical-align: middle;
+}
+table.wc_currencies td.name {
+  font-weight: bold;
+}
+table.wc_currencies .settings {
+  text-align: right;
+}
+table.wc_currencies .radio,
+table.wc_currencies .default,
+table.wc_currencies .status {
+  text-align: center;
+}
+table.wc_currencies .radio .tips,
+table.wc_currencies .default .tips,
+table.wc_currencies .status .tips {
+  margin: 0 auto;
+}
+table.wc_currencies .radio input,
+table.wc_currencies .default input,
+table.wc_currencies .status input {
+  margin: 0;
+}
